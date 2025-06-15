@@ -1,11 +1,22 @@
 # File-integrity-Checker
 
 *COMPANY NAME* : CODTECH IT SOLUTIONS
+
+
 *NAME* : SHAUN JEROME
+
+
 *INTERN ID* : CT04DM953
+
+
 *DOMAIN* : Cyber Security & Ethical Hacking
+
+
 *DURATION* : 4 WEEKS
+
+
 *MENTOR* : NEELA SANTHOSH
+
 
 
 *DESCRIPTION* 
