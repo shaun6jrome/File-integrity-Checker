@@ -79,6 +79,16 @@ Project Deliverables
 
 
 
+The final deliverable is a command-line Python script that allows users to:
+	•	Create a baseline of file states in a specified directory.
+	•	Verify current file states against the saved baseline.
+	•	Generate readable output highlighting changes in the file structure.
+
+This utility promotes awareness, accountability, and security in managing files and directories.
+
+
+
+
 
 
 *OUTPUT* 
@@ -86,12 +96,9 @@ Project Deliverables
 
 
 <img width="940" alt="Image" src="https://github.com/user-attachments/assets/bae8772a-78a6-401a-aa40-66fb63ec8b56" />
+
+
 <img width="933" alt="Image" src="https://github.com/user-attachments/assets/7edff998-928c-4165-bd22-69857934fd94" />
+
+
 <img width="943" alt="Image" src="https://github.com/user-attachments/assets/6afc5c16-2718-41e3-b467-db5727debacd" />
-
-The final deliverable is a command-line Python script that allows users to:
-	•	Create a baseline of file states in a specified directory.
-	•	Verify current file states against the saved baseline.
-	•	Generate readable output highlighting changes in the file structure.
-
-This utility promotes awareness, accountability, and security in managing files and directories.
