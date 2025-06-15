@@ -1,0 +1,14 @@
+{
+    "directory": "/Users/jerome/Documents/VScode/ETHICAL HACKING TASKS/myfolder",
+    "timestamp": "2025-06-04T07:53:41.335216",
+    "files": {
+        "file2.txt": {
+            "hash": "aa1db5c660d3d1f3f4f9361b9848694300929be94b74c84452a87420c59e5df9",
+            "last_checked": "2025-06-04T07:53:41.335366"
+        },
+        "file1.txt": {
+            "hash": "66a045b452102c59d840ec097d59d9467e13a3f34f6494e539ffd32c1bb35f18",
+            "last_checked": "2025-06-04T07:53:41.335419"
+        }
+    }
+}
